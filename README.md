@@ -1,4 +1,4 @@
-##Sobre mim.
+
 
 Diante da imensidão do tempo e do espaço é um enorme prazer compartilhar um planeta e uma época com você!
 (Carl Sagan).
@@ -7,7 +7,7 @@ Sou CEO da gráfica e editora e editora Cidade Verde, situada em Teresina-PI,emp
 me intersesso por gestão e ciência de dados (Dados tortutados confessam,rsrs).
 Atualmente estudo e pratico Python,sou aluno da Asimov academy com muito orgulho e amo esta liguagem.
 Além disso sou praticante de Ninjutsu Bujinkan há mais de 10 anos tendo o titulo de Shidoshi Ho nesta organização e amo cavalgar, sendo Bodoco o meu cavalo!
-##Contatos
+
 <div>
   <a href="https://www.linkedin.com/in/benicio-macedo-02818a20a/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
   <a href="https://www.youtube.com/channel/UCg6ySiQGTlot440xmQrdELQ" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
