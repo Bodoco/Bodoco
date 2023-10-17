@@ -7,15 +7,6 @@ Sou CEO da gráfica e editora e editora Cidade Verde, situada em Teresina-PI,emp
 me intersesso por gestão e ciência de dados (Dados tortutados confessam,rsrs).
 Atualmente estudo e pratico Python,sou aluno da Asimov academy com muito orgulho e amo esta liguagem.
 Além disso sou praticante de Ninjutsu Bujinkan há mais de 10 anos tendo o titulo de Shidoshi Ho nesta organização e amo cavalgar, sendo Bodoco o meu cavalo!
-
-##Minha Liguagem
-
-            <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" widht="40" height="40" />
-
-##Bibliotecas Favoritas
-
-            <img loading = "lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" widht ="40" height="40"/><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" widht ="40"height="40/> 
-          
 ##Contatos
 <div>
   <a href="https://www.linkedin.com/in/benicio-macedo-02818a20a/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
@@ -26,9 +17,8 @@ Além disso sou praticante de Ninjutsu Bujinkan há mais de 10 anos tendo o titu
 <div>
 <a href="https://github.com/Bodoco">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bodoco&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?Bodoco&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Bodoco&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
-
 ![Snake animation](https://github.com/Bodoco/Bodoco/blob/output/github-contribution-grid-snake.svg)  
 
   <!--
